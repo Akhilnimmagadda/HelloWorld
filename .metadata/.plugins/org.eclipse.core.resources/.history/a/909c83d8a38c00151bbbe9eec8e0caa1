@@ -1,0 +1,10 @@
+<template data-controller-name="helloworld.pageOne">
+	<div data-sap-ui-type="sap.m.Page, sap.ui.Page" data-title="Title">
+		<div data-sap-ui-aggregation="content">
+		
+		</div>
+	</div>
+</template>
+<head>
+<title>First Page</title>
+</head>
